@@ -4,3 +4,9 @@ C:\Taichi\Code\ChineseParentMod\ChineseParentMod\obj\Debug\ChineseParentMod.cspr
 C:\Taichi\Code\ChineseParentMod\ChineseParentMod\obj\Debug\ChineseParentMod.csproj.CoreCompileInputs.cache
 C:\Taichi\Code\ChineseParentMod\ChineseParentMod\obj\Debug\ChineseParentMod.dll
 C:\Taichi\Code\ChineseParentMod\ChineseParentMod\obj\Debug\ChineseParentMod.pdb
+C:\Taichi\Code\ChineseParent_Mod\ChineseParentMod\bin\Debug\ChineseParentMod.dll
+C:\Taichi\Code\ChineseParent_Mod\ChineseParentMod\bin\Debug\ChineseParentMod.pdb
+C:\Taichi\Code\ChineseParent_Mod\ChineseParentMod\obj\Debug\ChineseParentMod.csproj.AssemblyReference.cache
+C:\Taichi\Code\ChineseParent_Mod\ChineseParentMod\obj\Debug\ChineseParentMod.csproj.CoreCompileInputs.cache
+C:\Taichi\Code\ChineseParent_Mod\ChineseParentMod\obj\Debug\ChineseParentMod.dll
+C:\Taichi\Code\ChineseParent_Mod\ChineseParentMod\obj\Debug\ChineseParentMod.pdb
